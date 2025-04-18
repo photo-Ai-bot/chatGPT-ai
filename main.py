@@ -1,5 +1,6 @@
 from telegram import Update, InputFile
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
+import os
 import logging
 import openai
 import requests
