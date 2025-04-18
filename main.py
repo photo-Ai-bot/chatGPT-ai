@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
 # توکن ربات تلگرام خود را اینجا وارد کنید
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "7780937056:AAHz609vhb9Loc517psbWd5V_aJ6gkFUOuc"
 
 # تنظیمات OpenAI
 openai.api_key = "API_KEY_OPENAI"
